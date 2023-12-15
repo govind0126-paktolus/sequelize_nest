@@ -1,0 +1,1 @@
+Sequelize is popular Object-Relational Mapping(ORM) library for NodeJs which works with relational databases. Combining sequelize and nest js allows us to easily interact with databases in nest apps.
